@@ -1,0 +1,6 @@
+# 部署在内网
+server:
+  port: 9008
+
+# nginx转发访问地址
+nginx-mapping-url: http://xxx.xxx.xxx.xxx:xxxx/robot/extranet/callback
